@@ -1,0 +1,7 @@
+I have successfully created a Power BI project that aims to improve employee performance and retention for organizations. The project features an HR analytics dashboard, which is divided into three filters, namely human resources, research and development, and sales.
+
+To accurately measure employee performance and retention, I have utilized several key performance indicators (KPIs), such as employee count, attrition, attrition rate, average age, average salary, and average years worked for the company.
+
+Moreover, I have incorporated various visualizations, including donut charts for attrition by education level, bar plots to show attrition by age, table matrices to display job roles and employee satisfaction, horizontal bar charts for attrition by salary and years at the company, and area and horizontal bar charts for attrition by job role.
+
+I am grateful to Rishabh sir for making this dashboard possible
